@@ -8,7 +8,7 @@ I hold an M.Sc. in Informatics (Computer Science) from **Technical University of
 ---
 
 ## 📚 Areas of Interest
-- **Natural Language Processing (NLP) **
+- **Natural Language Processing (NLP)**
 - **Computational Social Science:**
 - **Ethical AI**
 - **Network Science:**
@@ -20,8 +20,8 @@ I hold an M.Sc. in Informatics (Computer Science) from **Technical University of
 | Category         | Technologies |
 |------------------|--------------|
 | **Programming**    | Python, SQL, C++ |
-| **AI & Machine Learning**      | PyTorch, Hugging Face, Scikit-Learn, Weights & Biases, NumPy, Pandas, NetworkX |
-| **Tools & Software**        | Linux, Git, Docker, PostgreSQL |
+| **AI & Machine Learning**      | PyTorch, Hugging Face, Scikit-Learn, NumPy, Pandas, Matplotlib, NetworkX |
+| **Tools & Software**        | Linux, Git, Docker, PostgreSQL, Weights & Biases |
 
 
 <!--
