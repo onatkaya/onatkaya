@@ -3,7 +3,12 @@ I'm a Data Scientist/AI Engineer, specialized in Generative AI (e.g. LLMs), (Soc
 
 I hold an M.Sc. in Informatics (Computer Science) from **Technical University of Munich (TUM)** and a B.Sc. in Computer Science and Engineering from **Sabanci University**.
 
- I have a proven track record in multidisciplinary research at leading institutions such as **University of the German Federal Armed Force (UniBw München)**, **Max Planck Institute for Plasma Physics**, **TU Munich**, **TU Wien** and **Sabanci University**.
+ I have a proven track record in multidisciplinary research at leading institutions such as:
+ - **University of the German Federal Armed Force (UniBw München)**
+ - **Max Planck Institute for Plasma Physics**
+ - **TU Munich**
+ - **TU Wien**
+ - **Sabanci University**.
 
 ---
 
