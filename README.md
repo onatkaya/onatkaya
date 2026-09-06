@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Data Scientist/AI Engineer, specialized in Generative AI (e.g. LLMs), (Social) Network Analysis and Ethical AI. 
+
+With a master's degree in Computer Science, I have a proven track record in multidisciplinary research at leading institutions such as University of the German Federal Armed Forces, Max Planck Institute for Plasma Physics, TU Munich, TU Wien and Sabanci University.
+
 <!--
 **onatkaya/onatkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
