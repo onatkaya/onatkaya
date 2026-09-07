@@ -14,9 +14,9 @@ I hold an M.Sc. in Informatics (Computer Science) from **Technical University of
 
 ## 📚 Areas of Interest
 - **Natural Language Processing (NLP)**
-- **Computational Social Science:**
+- **Computational Social Science**
 - **Ethical AI**
-- **Network Science:**
+- **Network Science**
 
 ---
 
