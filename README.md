@@ -26,7 +26,7 @@ I hold an M.Sc. in Informatics (Computer Science) from **Technical University of
 |------------------|--------------|
 | **Programming**    | Python, SQL, C++ |
 | **AI & Machine Learning**      | PyTorch, Hugging Face, Scikit-Learn, NumPy, Pandas, Matplotlib, NetworkX |
-| **Tools & Software**        | Linux, Git, Docker, PostgreSQL, Weights & Biases |
+| **Tools & Software**        | Linux, Git, Docker, Ollama, PostgreSQL, Weights & Biases |
 
 
 <!--
