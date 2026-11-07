@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Onat Kaya**
-I'm a Data Scientist/AI Engineer, specialized in Generative AI (e.g. LLMs), (Social) Network Analysis and Ethical AI.
+I'm a Data Scientist & AI Engineer, specialized in Generative AI (e.g. LLMs), (Social) Network Analysis and Ethical AI.
 
 ## 🛠️ Tools & Tech
 
